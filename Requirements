@@ -1,0 +1,17 @@
+Book My Show Requirements:
+
+Actors: Theatres, Event Organisers, Customers (Viewers of the show/event)
+
+Theatres: 
+a) Add/Remove Theatres, 
+b) Add/Remove Movies, 
+c) Edit/Update/Remove Movie Timings, 
+d) Provide Snacks buying Option.
+
+Customers: 
+a) Display Movies, 
+b) Display Shows per Movie, 
+c) Book a Show, 
+d) Search using a Filter (Location based, Movie Based, Timing Based or combinations)  
+
+Note: For now, Event Organisers is considered out of Scope. It may be considered in scope for the Version 2 of this Application. 
